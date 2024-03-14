@@ -39,7 +39,7 @@
 - Google Cloud Run: Serverless platform for deploying your application.
 - Google Analytics: Tool for collecting website usage data and analyzing user behavior.
 
-Make new [.env] file ,just replace what between <> with your spicific data
+Make new .env file ,just replace what between <> with your spicific data
 
 <br>
 
