@@ -1,6 +1,6 @@
 # React Landing Page with Express.js, Google Cloud Run and Google Analytics.
 
- ![alt text](soft-mindset/dist/assets/Improve your Soft skills with US.png)
+ ![alt text]("soft-mindset/dist/assets/Improve your Soft skills with US.png")
 
 ## Live Demo : Take a look the live demo here 👉 [Soft Mindeset](softmindset.app)
 
