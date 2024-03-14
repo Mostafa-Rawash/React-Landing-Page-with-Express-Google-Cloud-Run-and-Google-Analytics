@@ -1,0 +1,152 @@
+/* Imports */
+@import url("https://fonts.googleapis.com/css2?family=Cairo:slnt,wght@-11..11,200..1000&display=swap");
+/* @import theme  *{} Typography  */
+
+h1 {
+  color: #000;
+  text-align: right;
+  font-family: Cairo;
+  font-size: calc(1rem + 3vw);
+    font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+h2 {
+  color: #000;
+  text-align: center;
+  font-family: Cairo;
+  font-style: normal;
+  font-weight: 600;
+  font-size: calc(0.9rem + 2vw);
+  line-height: normal;
+  position: relative;
+  margin: calc(2rem + 2vw) 0px ;
+}
+h2:after {
+  position: absolute;
+  content: url(/src/assets/img/vector4.svg);
+  width: 142.25px;
+  height: 22.975px;
+  flex-shrink: 0;
+  stroke-width: 2px;
+  stroke: #3158e4;
+  left: 50%;
+  top: 70%;
+  transform: translateX(-50%);
+}
+h3,
+.card-title {
+  color: #000;
+  text-align: center;
+  font-family: Cairo;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  font-size: calc(0.8rem + 1vw);
+
+}
+p {
+  color: #000;
+  text-align: center;
+  font-family: Cairo;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  font-size: calc(0.8rem + 1vw);
+}
+p.card-text{
+  font-size: calc(0.6rem + 1vw);
+
+}
+.banner p {
+  text-align: right;
+}
+label {
+  font-size: calc(0.3rem + 2vw);
+  color: #000;
+  text-align: right;
+  font-family: Cairo;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.btn-primary {
+  display: inline-flex;
+  padding: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 15px;
+  background: #3158e4;
+  box-shadow: 0px 5px 4px 0px rgba(49, 88, 228, 0.3);
+  margin: calc(1rem + 3vw) 0px;
+}
+.btn[variant="primary"],
+.btn-primary {
+  color: var(--1-Color, #fff);
+  text-align: center;
+  font-family: Cairo;
+  font-style: normal;
+  font-weight: 900;
+  font-size: calc(0.9rem + 1vw);
+
+  line-height: normal;
+}
+nav .btn-primary {
+  color: var(--1-Color, #fff);
+  text-align: center;
+  font-family: Cairo;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  margin: 0;
+}
+/* buttons */
+/* colors */
+/* input */
+input {
+  display: flex;
+  width: 713px;
+  height: calc(2rem + 4vw);
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;}
+
+section.container {
+  margin-top: 100px;
+}
+/* .card-img-top
+{
+
+  width: 435px;
+  height: 344px;
+} */
+/* .card-title.h5{
+  color: #000;
+text-align: center;
+font-family: Cairo;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+} */
+.card {
+  border-radius: 16px;
+  background: rgba(37, 85, 255, 0.2);
+  display: flex;
+  /* height: 420px; */
+  padding: 8px 9px 12px 9px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+
+form{
+  margin: auto;
+  max-width: 713px;
+}
