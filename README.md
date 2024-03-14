@@ -13,13 +13,13 @@
 
 <table style="border-style:none; text-align:center;">
   <tr>
-    <td><img src="./soft-mindset/dist/assets/React-icon.svg.png" width=100></td>
-    <td><img src="./soft-mindset/dist/assets/mongodb.png" width=100></td>
-    <td><img src="./soft-mindset/dist/assets/nodeJS.png" width=100></td>
-    <td><img src="./soft-mindset/dist/assets/express.png" width=100></td>
-    <td><img src="./soft-mindset/dist/assets/google-cloud-icon.png" width=100></td>
-    <td><img src="./soft-mindset/dist/assets/GCRun.png" width=100></td>
-    <td><img src="./soft-mindset/dist/assets/GAnalytics.svg.png" width=100></td>
+    <td><img src="/soft-mindset/dist/assets/React-icon.svg.png" width=100></td>
+    <td><img src="/soft-mindset/dist/assets/mongodb.png" width=100></td>
+    <td><img src="/soft-mindset/dist/assets/nodeJS.png" width=100></td>
+    <td><img src="/soft-mindset/dist/assets/express.png" width=100></td>
+    <td><img src="soft-mindset/dist/assets/google-cloud-icon.png" width=100></td>
+    <td><img src="soft-mindset/dist/assets/GCRun.png" width=100></td>
+    <td><img src="soft-mindset/dist/assets/GAnalytics.svg.png" width=100></td>
   </tr>
   <tr style="text-align:center; font-weight:100;">
      <td>React</td>
