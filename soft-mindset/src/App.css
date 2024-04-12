@@ -1,6 +1,11 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
 /* Imports */
 @import url("https://fonts.googleapis.com/css2?family=Cairo:slnt,wght@-11..11,200..1000&display=swap");
-/* @import theme  *{} Typography  */
+/* @import theme  *{} Typography  
 
 h1 {
   color: #000;
@@ -106,7 +111,7 @@ nav .btn-primary {
 }
 /* buttons */
 /* colors */
-/* input */
+/* input 
 input {
   display: flex;
   width: 713px;
@@ -119,7 +124,7 @@ input {
 section.container {
   margin-top: 100px;
 }
-/* .card-img-top
+ .card-img-top
 {
 
   width: 435px;
@@ -133,12 +138,12 @@ font-size: 24px;
 font-style: normal;
 font-weight: 600;
 line-height: normal;
-} */
+} 
 .card {
   border-radius: 16px;
   background: rgba(37, 85, 255, 0.2);
   display: flex;
-  /* height: 420px; */
+  /* height: 420px;
   padding: 8px 9px 12px 9px;
   justify-content: center;
   align-items: center;
@@ -149,4 +154,4 @@ line-height: normal;
 form{
   margin: auto;
   max-width: 713px;
-}
+} */
